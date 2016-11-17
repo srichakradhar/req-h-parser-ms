@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/srichakradhar/req-h-parser-ms/issues"
   },
-  "homepage": "https://github.com/srichakradhar/req-h-parser-ms#readme"
+  "homepage": "https://github.com/srichakradhar/req-h-parser-ms#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
