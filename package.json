@@ -1,0 +1,28 @@
+{
+  "name": "req_h_parser_ms",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice - FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srichakradhar/req-h-parser-ms.git"
+  },
+  "keywords": [
+    "fcc",
+    "freecodecamp",
+    "challenge",
+    "backend",
+    "request",
+    "parser"
+  ],
+  "author": "srichakradhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srichakradhar/req-h-parser-ms/issues"
+  },
+  "homepage": "https://github.com/srichakradhar/req-h-parser-ms#readme"
+}
